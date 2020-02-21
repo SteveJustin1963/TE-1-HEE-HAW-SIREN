@@ -67,5 +67,5 @@ Projects 2 - 10 will be
 presented in the next issue.
 Don't miss your copy! 
 
-![]()
-![]()
+![](https://github.com/SteveJustin1963/TE-1-33-Hee-Haw-Siren/blob/master/layout.png)
+![](https://github.com/SteveJustin1963/TE-1-33-Hee-Haw-Siren/blob/master/batt.png)
