@@ -29,4 +29,4 @@ Only the first project is presented in this issue. We advise, however, to purcha
 ## HOW THE CIRCUIT WORKS:
 The circuit consists essentially of two multivibrators. A multivibrator can also be called a FLIP-FLOP. The word flip-flop sounds much better so we'll use it. These two flip-flops are arranged to oscillate at widely differing frequencies. The first oscillator has a frequency of 25Hz when the potentiometer RV2 is at minimum resistance so that the 3k3 resistor R3 is providing the oscillator frequency. By adjusting RV2 slightly we obtain the characteristic HEE HAW sound. This frequency is now about 2Hz. Altering the switch Sw2 will give us a single note which will be sustained for up to 4 secs then change in pitch. The note we hear is actually the frequency of the second flipflop being modified by the first flipflop. This is achieved by the effect of the 6n8 capacitor on the input gates 8&9.  
 
-![]()
+![](https://github.com/SteveJustin1963/TE-1-33-Hee-Haw-Siren/blob/master/h-h-f.png)
