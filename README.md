@@ -35,3 +35,37 @@ The circuit consists essentially of two multivibrators. A multivibrator can also
 ## PREPARING THE PRINTED CIRCUIT BOARD:
 
 Before mounting any parts, the PC board requires 10 jumper wires. Refer to the layout diagram for the exact positions of these jumpers. They are made from tinned copper wire or from the leads of resistors. Be sure to locate the correct holes as you will be using them as a guide to positioning the parts in the future. You will notice some of these jumpers are required for the HEE HAW SIREN while others are used in later projects. But it is best to fit them all now. Make two switches as shown here: 
+
+![](https://github.com/SteveJustin1963/TE-1-33-Hee-Haw-Siren/blob/master/molexwash.png)
+
+They will be needed for the first project. Any type of terminal pin will be suitable and even a fullsize switch may be used, connected to 30cm of hook-up wire.  
+
+## MOUNTING THE PARTS
+Fit the two mini trim pots. Cermet trim pots are preferred as you can turn their body with your fingers or use a screwdriver in their slot. Start at the left-hand side of the PC board and fit each component in turn. The CD 4001 IC should be left until last as it is a CMOS IC and requires fast insertion to protect it from static build-up. Once it is soldered in position it is quite robust. Use your fingers to heat-sink the IC so that it does not get too hot. Connect
+hook-up wire to the places
+marked for the speaker and
+battery. No on-off switch
+is shown in the diagram as
+the wire can be fitted under the spring terminals of the
+battery or 2 alligator clips
+can be connected to the
+battery terminals.
+After soldering all the
+parts onto the PC board,
+check once more with the
+layout diagram, then
+connect the battery. By
+varying the two trim pots
+you will be able to get a
+wide variety of notes
+which will very from a HEE
+HAW SIREN for a toy fire
+engine to a type of
+electronic music emitted
+when a computer goes wrong.
+Projects 2 - 10 will be
+presented in the next issue.
+Don't miss your copy! 
+
+![]()
+![]()
