@@ -1,4 +1,4 @@
-# TE-1-33-Hee-Haw-Siren
+# TE-1-33-EXPERIMENTER-DECK-PROJECT-ONE-Hee-Haw-Siren
 ## HEE HAW SIREN - PROJECT ONE 
 https://github.com/SteveJustin1963/TE-1-31-EXPERIMENTER-DECK
 
