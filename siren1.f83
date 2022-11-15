@@ -1,0 +1,7 @@
+
+: siren ( -- )
+   360 0 do
+      i pi 180.0 / fm/ mod
+      fm/ y!
+      loop ;
+      
